@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-THEME = '/themes/html5-dopetrope'
+THEME = 'themes/html5-dopetrope'
 
 LOAD_CONTENT_CACHE = False
 
